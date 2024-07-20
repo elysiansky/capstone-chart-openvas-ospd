@@ -8,7 +8,7 @@ ospd:
   replicas: 2
   image:
     repository: elysiansky/capstone-openvas-ospd
-    tag: f46e022-amd64
+    tag: 68fda46-amd64
   service:
     type: ClusterIP
   resources:
